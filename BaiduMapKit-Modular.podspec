@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.authors      = { 'ApterKing' => 'wangcccong@foxmail.com' }
 
 
-  s.source       = { :git => 'https://github.com/ApterKing/BaiduMapKit-Modular.git', :tag => '#{s.version}', :submodules => true }
+  s.source       = { :git => 'https://github.com/ApterKing/BaiduMapKit-Modular.git', :tag => s.version.to_s, :submodules => true }
 
   s.requires_arc = true
 
