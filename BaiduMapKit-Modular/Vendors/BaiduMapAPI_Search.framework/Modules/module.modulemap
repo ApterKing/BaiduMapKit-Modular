@@ -1,0 +1,8 @@
+framework module BaiduMapAPI_Search {
+  umbrella header "BMKSearchComponent.h"
+  header "BMKSearchVersion.h"
+  
+  export *
+  link "sqlite3.0"
+  link "stdc++.6.0.9"
+}

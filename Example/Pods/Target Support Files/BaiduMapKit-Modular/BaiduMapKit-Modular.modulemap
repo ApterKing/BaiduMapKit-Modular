@@ -1,0 +1,6 @@
+framework module BaiduMapKit_Modular {
+  umbrella header "BaiduMapKit-Modular-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,36 @@
+PODS:
+  - BaiduMapKit-Modular (3.3.4):
+    - BaiduMapKit-Modular/Base (= 3.3.4)
+    - BaiduMapKit-Modular/Cloud (= 3.3.4)
+    - BaiduMapKit-Modular/Location (= 3.3.4)
+    - BaiduMapKit-Modular/Map (= 3.3.4)
+    - BaiduMapKit-Modular/Radar (= 3.3.4)
+    - BaiduMapKit-Modular/Search (= 3.3.4)
+    - BaiduMapKit-Modular/Utils (= 3.3.4)
+  - BaiduMapKit-Modular/Base (3.3.4)
+  - BaiduMapKit-Modular/Cloud (3.3.4):
+    - BaiduMapKit-Modular/Base
+  - BaiduMapKit-Modular/Location (3.3.4):
+    - BaiduMapKit-Modular/Base
+  - BaiduMapKit-Modular/Map (3.3.4):
+    - BaiduMapKit-Modular/Base
+  - BaiduMapKit-Modular/Radar (3.3.4):
+    - BaiduMapKit-Modular/Base
+  - BaiduMapKit-Modular/Search (3.3.4):
+    - BaiduMapKit-Modular/Base
+  - BaiduMapKit-Modular/Utils (3.3.4):
+    - BaiduMapKit-Modular/Base
+
+DEPENDENCIES:
+  - BaiduMapKit-Modular (from `../`)
+
+EXTERNAL SOURCES:
+  BaiduMapKit-Modular:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BaiduMapKit-Modular: a2d1f7cbde1204a891f2a7f5b8e83539e71ab1fc
+
+PODFILE CHECKSUM: 1f3bd0d12509b35a4a51e1512f7834196cc630d5
+
+COCOAPODS: 1.3.1

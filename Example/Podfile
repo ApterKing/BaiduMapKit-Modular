@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BaiduMapKit-Modular_Example' do
+  pod 'BaiduMapKit-Modular', :path => '../'
+
+  target 'BaiduMapKit-Modular_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
